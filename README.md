@@ -1,1 +1,1 @@
-# Variable.tf
+# Terraform.tf
